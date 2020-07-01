@@ -1,0 +1,1 @@
+let participantes  = ['Michelle', 'Elías', 'Ezequiel']
