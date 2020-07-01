@@ -1,1 +1,1 @@
-let nombre = 'Michelle Torrico'
+let nombre = 'Este archivo genera un conflicto'
