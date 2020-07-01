@@ -1,0 +1,1 @@
+let animales = ['vaca', 'perro', 'oveja']
