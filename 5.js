@@ -1,1 +1,1 @@
-let nombre = 'Arc'
+let nombre = 'Este archivo genera un conflicto'
